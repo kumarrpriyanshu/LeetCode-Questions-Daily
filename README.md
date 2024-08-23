@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
