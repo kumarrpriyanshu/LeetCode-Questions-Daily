@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
