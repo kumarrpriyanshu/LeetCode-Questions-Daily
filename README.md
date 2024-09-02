@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
