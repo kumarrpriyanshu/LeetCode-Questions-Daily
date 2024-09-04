@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -53,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2035-count-sub-islands) |
@@ -90,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Search
 |  |
