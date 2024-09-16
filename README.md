@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0664-strange-printer) |
@@ -18,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [2155-find-missing-observations](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2155-find-missing-observations) |
@@ -68,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1435-xor-queries-of-a-subarray) |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
