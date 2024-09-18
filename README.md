@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
@@ -71,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
@@ -157,5 +159,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
