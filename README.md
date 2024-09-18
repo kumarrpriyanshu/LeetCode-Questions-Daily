@@ -76,6 +76,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
@@ -124,6 +125,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 | [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -154,6 +156,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
@@ -163,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 ## Greedy
@@ -173,4 +177,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
