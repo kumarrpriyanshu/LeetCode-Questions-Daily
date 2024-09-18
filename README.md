@@ -17,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
 | [0664-strange-printer](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0664-strange-printer) |
 ## Math
 |  |
@@ -73,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
