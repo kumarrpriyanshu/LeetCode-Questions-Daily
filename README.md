@@ -39,6 +39,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -72,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
