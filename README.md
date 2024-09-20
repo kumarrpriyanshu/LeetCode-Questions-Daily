@@ -96,6 +96,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3582-find-indices-of-stable-mountains) |
 ## Graph
 |  |
 | ------- |
