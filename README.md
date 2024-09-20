@@ -31,6 +31,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [2155-find-missing-observations](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [2411-spiral-matrix-iv](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Graph
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
