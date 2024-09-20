@@ -31,6 +31,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [2155-find-missing-observations](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2411-spiral-matrix-iv) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [2411-spiral-matrix-iv](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3582-find-indices-of-stable-mountains) |
 ## Graph
@@ -108,6 +111,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2803-modify-graph-edge-weights) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
