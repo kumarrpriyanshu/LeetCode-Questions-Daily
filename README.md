@@ -16,6 +16,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3533-snake-in-matrix](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2411-spiral-matrix-iv) |
+| [3533-snake-in-matrix](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
@@ -97,6 +99,7 @@
 | [2411-spiral-matrix-iv](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3533-snake-in-matrix](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/3582-find-indices-of-stable-mountains) |
