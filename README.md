@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0564-find-the-closest-palindrome) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
