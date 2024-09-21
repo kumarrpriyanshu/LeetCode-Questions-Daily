@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
@@ -201,6 +202,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
