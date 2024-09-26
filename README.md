@@ -100,6 +100,7 @@
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1435-xor-queries-of-a-subarray) |
@@ -165,6 +166,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -245,4 +247,16 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2755-extra-characters-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
