@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0664-strange-printer) |
 | [2755-extra-characters-in-a-string](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2755-extra-characters-in-a-string) |
 ## Math
@@ -100,6 +101,7 @@
 | [0169-majority-element](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0731-my-calendar-ii) |
@@ -170,6 +172,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -216,6 +220,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/kumarrpriyanshu/LeetCode-Questions-Daily/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
